@@ -1,0 +1,9 @@
+This is test message file
+
+Commit #2 during squash activity
+
+Commit #3 during squash activity
+
+Commit #4 during squash activity
+
+Commit #5 during squash activity
